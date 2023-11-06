@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>List of Minions</title>
+</head>
+<body>
+<h1>List of Minions</h1>
+<table>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="minion : ${minions}">
+        <td th:text="${minion.id}"></td>
+        <td th:text="${minion.name}"></td>
+        <td th:text="${minion.age}"></td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
