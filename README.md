@@ -15,6 +15,9 @@ Spring Web App Demo MVC Model View Controller
 ## Views
 ![html-view](https://github.com/MadForLife/spring-demo/assets/35624178/1eeababb-20c7-448f-bbbb-323122f40133)
 
+## Insert / Create new records
+![Screenshot 2023-11-06 174340](https://github.com/MadForLife/spring-demo/assets/35624178/8185f210-b88a-4b82-ae60-cb9dde118816)
+
 ## Minions Controller
 
 ```java
