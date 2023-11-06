@@ -3,11 +3,11 @@
 Spring Web App Demo MVC Model View Controller
 
 
-Dependencies:
-spring-boot-starter-data-jpa
-spring-boot-starter-thymeleaf
-spring-boot-starter-web
-mysql-connector-j
+## Dependencies:  
+**spring-boot-starter-data-jpa**  
+**spring-boot-starter-thymeleaf**  
+**spring-boot-starter-web**  
+**mysql-connector-j**  
 
 ## Database Schema
 ![database-schema](https://github.com/MadForLife/spring-demo/assets/35624178/193db42d-1724-4e80-9177-8bdbceae7e82)
